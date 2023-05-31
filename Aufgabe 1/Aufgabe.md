@@ -1,4 +1,4 @@
-# Aufgabe 1
+# Aufgabe 1: Geschäftsprozess Onboarding beschreiben
 
 ## Zeitraum: 1-2 Lektionen
 
