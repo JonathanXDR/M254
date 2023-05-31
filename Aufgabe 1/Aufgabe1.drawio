@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T20:34:10.197Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.6" etag="OXjlNHu-XwT5bfvnUG1V" type="device">
+<mxfile host="app.diagrams.net" modified="2023-05-31T20:42:38.991Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.6" etag="--JMtQq-_xDyqp7gzUx9" type="device">
   <diagram name="Seite-1" id="DMoIpwFmf_IYYl2zh8EW">
-    <mxGraphModel dx="2108" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1817" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,6 +70,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HNk0kGJ9HZvAZPGOaw6o-16" value="wiederholen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ubMgIPK8mcVBixMk_mYF-22">
+          <mxGeometry x="0.1659" y="4" relative="1" as="geometry">
+            <mxPoint x="51" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ubMgIPK8mcVBixMk_mYF-23" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="430" y="980" width="30" height="30" as="geometry" />
         </mxCell>
@@ -79,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ubMgIPK8mcVBixMk_mYF-24" value="&lt;div&gt;Nach einem erfolgreichen Bewerbungsverfahren erhält der potenzielle neue Mitarbeiter ein Jobangebot vom Unternehmen. Dieses Angebot enthält Details wie Position, Gehalt, Arbeitszeiten, Beginn des Arbeitsverhältnisses und andere relevante Aspekte.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=16;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="695" y="80" width="495" height="110" as="geometry" />
+          <mxGeometry x="695" y="110" width="545" height="130" as="geometry" />
         </mxCell>
         <mxCell id="2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="3" target="ubMgIPK8mcVBixMk_mYF-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -87,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3" value="&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left;&quot;&gt;Nachdem der Kandidat das Jobangebot akzeptiert hat, wird ein formeller Arbeitsvertrag erstellt, der die Bedingungen der Anstellung bestätigt. Der Vertrag enthält spezifische Details über die Rolle, Erwartungen, Gehalt, Zusatzleistungen, Urlaubsanspruch, Vertraulichkeitsvereinbarungen usw. Dieser Vertrag wird von beiden Parteien unterzeichnet, um die Vereinbarung zu bestätigen.&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=16;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="695" y="270" width="525" height="130" as="geometry" />
+          <mxGeometry x="695" y="270" width="545" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="5" target="ubMgIPK8mcVBixMk_mYF-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -95,26 +100,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5" value="&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left;&quot;&gt;In dieser Phase bereitet das Unternehmen den Arbeitsplatz für den neuen Mitarbeiter vor. Dies kann die Bereitstellung von Arbeitsmaterialien, wie Computer, Büromaterialien etc., sowie Zugangsdaten zu notwendigen Systemen und Software beinhalten. Zusätzlich wird meistens eine E-Mail-Adresse und andere firmeninterne Accounts für den neuen Mitarbeiter eingerichtet.&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="695" y="420" width="545" height="130" as="geometry" />
+          <mxGeometry x="695" y="433" width="545" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=190;exitDy=60;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7" target="ubMgIPK8mcVBixMk_mYF-11" edge="1">
+        <mxCell id="6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=610;exitDy=77.5;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7" target="ubMgIPK8mcVBixMk_mYF-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7" value="&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left;&quot;&gt;Am ersten Arbeitstag wird der neue Mitarbeiter vom Team und der Führungskraft begrüßt. Meistens findet eine Orientierung oder Einführung statt, in der der Mitarbeiter Informationen über das Unternehmen, die Abteilung und seine Rolle erhält. Hierbei kann der Mitarbeiter auch eine Führung durch die Räumlichkeiten erhalten und wird in verschiedene interne Prozesse eingeführt.&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="410" width="460" height="160" as="geometry" />
+          <mxGeometry x="-391.5" y="450" width="610" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=190;exitDy=60;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9" target="ubMgIPK8mcVBixMk_mYF-16" edge="1">
+        <mxCell id="8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=607;exitDy=75;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9" target="ubMgIPK8mcVBixMk_mYF-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="172.5" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9" value="&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left;&quot;&gt;Die Einarbeitungsphase ist ein entscheidender Teil des Onboarding-Prozesses. Hier lernt der neue Mitarbeiter intensiver seine Rolle, Aufgaben und Verantwortlichkeiten kennen und wird in die konkreten Arbeitsprozesse eingeführt. Diese Phase kann je nach Komplexität der Position und Geschwindigkeit des Mitarbeiters variieren. Während dieser Zeit wird der Mitarbeiter regelmäßig von seiner Führungskraft oder einem Mentor betreut und erhält Feedback zu seiner Arbeit.&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="650" width="520" height="150" as="geometry" />
+          <mxGeometry x="-390" y="645" width="607" height="130" as="geometry" />
         </mxCell>
         <mxCell id="11" value="&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start;&quot;&gt;Falls der Mitarbeiter oder das Unternehmen nicht mit der Einarbeitungsphase zufrieden sind, kann eine Anpassung oder Wiederholung der Einarbeitung vorgenommen werden. Dies kann bedeuten, dass zusätzliche Schulungen oder Unterstützung bereitgestellt werden, um sicherzustellen, dass der Mitarbeiter erfolgreich in seine Rolle einsteigen kann.&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="950" y="610" width="420" height="150" as="geometry" />
+          <mxGeometry x="970" y="600" width="580" height="133" as="geometry" />
         </mxCell>
         <mxCell id="12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="11" target="ubMgIPK8mcVBixMk_mYF-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -128,27 +133,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="15" value="&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start;&quot;&gt;Wenn der Mitarbeiter und das Unternehmen mit der Einarbeitungsphase zufrieden sind, beginnt der normale Arbeitsprozess. Hier übernimmt der Mitarbeiter vollständig seine Rolle und Aufgaben und wird Teil des regulären Arbeitsalltags.&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="637" y="840" width="313" height="150" as="geometry" />
+          <mxGeometry x="670" y="830" width="460" height="130" as="geometry" />
         </mxCell>
         <mxCell id="khrTzU60a0nAmPZWqD4r-15" value="Jobangebaut" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="375" y="170" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="khrTzU60a0nAmPZWqD4r-16" value="abgelehnt" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=12;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="khrTzU60a0nAmPZWqD4r-15" target="ubMgIPK8mcVBixMk_mYF-23" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
+        <mxCell id="khrTzU60a0nAmPZWqD4r-16" value="abgelehnt" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=12;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="khrTzU60a0nAmPZWqD4r-15" target="ubMgIPK8mcVBixMk_mYF-23" edge="1">
+          <mxGeometry x="-0.9336" y="-15" relative="1" as="geometry">
             <mxPoint x="600" y="840" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="205" />
-              <mxPoint x="630" y="995" />
+              <mxPoint x="290" y="215" />
+              <mxPoint x="290" y="995" />
             </Array>
+            <mxPoint x="350" y="170" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="khrTzU60a0nAmPZWqD4r-17" value="angenommen" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=12;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="khrTzU60a0nAmPZWqD4r-15" target="ubMgIPK8mcVBixMk_mYF-6" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
+          <mxGeometry x="-0.7143" y="5" relative="1" as="geometry">
             <mxPoint x="440" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HNk0kGJ9HZvAZPGOaw6o-15" value="Partnerarbeit Jonathan &amp;amp; Pascal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="930" width="200" height="60" as="geometry" />
+          <mxGeometry x="1350" y="900" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
